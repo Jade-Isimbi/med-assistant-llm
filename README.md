@@ -10,7 +10,8 @@ A domain-specific medical chatbot built by fine-tuning **TinyLlama-1.1B-Chat** u
 
 ## Links
 
-- **Run in Colab:** https://colab.research.google.com/github/Jade-Isimbi/med-assistant-llm/blob/main/med_assistant.ipynb  
+- **Run in Colab:** https://colab.research.google.com/github/Jade-Isimbi/med-assistant-llm/blob/main/med_assistant.ipynb
+- **video:** https://drive.google.com/file/d/1ESInGHH8W6qmgmjop1mBgkVVmV6zViSQ/view
 ---
 
 ## Dataset
